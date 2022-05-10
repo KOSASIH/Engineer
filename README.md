@@ -1,4 +1,5 @@
 [![Scan with Detekt](https://github.com/KOSASIH/Engineer/actions/workflows/detekt-analysis.yml/badge.svg)](https://github.com/KOSASIH/Engineer/actions/workflows/detekt-analysis.yml)
+[![Codacy Security Scan](https://github.com/KOSASIH/Engineer/actions/workflows/codacy-analysis.yml/badge.svg)](https://github.com/KOSASIH/Engineer/actions/workflows/codacy-analysis.yml)
 
 # Engineer
 
